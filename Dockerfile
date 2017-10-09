@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Audrey Roy Greenfeld (@audreyr)
+MAINTAINER salvadisravan@gmail.com
 
 # Config vars
 ENV BAMBOO_HOME /var/atlassian/bamboo
